@@ -15,7 +15,9 @@ def nerdnite_helper_2(uuu):
 # MAIN #
 ########
 def main():
+    print "PLEASE VISIT THE FOLLOWING URL\n"
     print nerdnite_helper_2(nerdnite_helper_1(uuu))
+    print "COPY AND PASTE THE URL INTO YOUR BROWSER. FOLLOW THE INSTRUCTIONS ONCE YOU GET THERE"
     exit( 0 )
 
 # Execute
